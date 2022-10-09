@@ -1,4 +1,4 @@
-Mobile, native PluraCoin wallet
+Mobile, native PluraCoin wallet.
 
 ![Screenshot](https://pluracoin.org/images/plura_mobile_wallet.jpg)
 
